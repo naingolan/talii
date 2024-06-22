@@ -1,0 +1,20 @@
+const Images = {
+    home: require('../../assets/Images/house.png'),
+    home_plain: require('../../assets/Images/house_plain.png'),
+    tourism: require('../../assets/Images/tourism.png'),
+    tourism_plain: require('../../assets/Images/tourism_plain.png'),
+    profile: require('../../assets/Images/user.png'),
+    profile_plain: require('../../assets/Images/user_plain.png'),
+    samia_royal: require('../../assets/Images/samia_royal.mp4'),
+    site_1: require('../../assets/Images/site_1.jpg'),
+    site_2: require('../../assets/Images/site_2.jpg'),
+    site_3: require('../../assets/Images/site_3.jpg'),
+    site_4: require('../../assets/Images/site_4.jpg'),
+    medal: require('../../assets/Images/medal.png'),
+    bed: require('../../assets/Images/bed.png'),
+    locator:require('../../assets/Images/locator.png'),
+    logo: require('../../assets/Images/Talii.png'),
+    user: require('../../assets/Images/user_talii.png'),
+    arrow_right: require('../../assets/Images/arrow_talii.png'),
+}
+export default Images;

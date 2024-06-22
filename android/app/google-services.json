@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876842600363",
+    "project_id": "talii-ab95e",
+    "storage_bucket": "talii-ab95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876842600363:android:1e2a48e368881f576b74ee",
+        "android_client_info": {
+          "package_name": "com.talii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhJeJ9AfhecTOycAmpu1p_5eBO8WqRok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
